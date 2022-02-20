@@ -1,0 +1,1 @@
+# Diziler array sınıfı metodlarını içeren proje örneğidir.
